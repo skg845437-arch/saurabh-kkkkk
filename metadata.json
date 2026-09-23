@@ -1,0 +1,6 @@
+{
+  "name": "SK Print Portal",
+  "description": "Professional 100% Free ID Card, PVC Card Sheet, Passport Photo & Document Print Portal for CSC, Cyber Cafes & Print Centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
